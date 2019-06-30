@@ -27,7 +27,7 @@ Switch to respective renderer with 1, 2, 3 keys
 
 Run "make" and an executable will be created. Type "export DYLD_LIBRARY_PATH=lib" to set up the env. Run "./Nibbler" and enjoy the game!
 
-<h3>Gameplay Demo</h3>
+<h3>Click for Gameplay Demo</h3>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LjmoKbjfvyE/0.jpg)](https://youtu.be/LjmoKbjfvyE)
 
